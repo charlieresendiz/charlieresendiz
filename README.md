@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
-<h3 align="center">A passionate DevOps Engineer student in the US</h3>
+<h3 align="center">A passionate DevOps/Cloud Engineer student in the US</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlieresendiz" alt="charlieresendiz" /></a> </p>
 
