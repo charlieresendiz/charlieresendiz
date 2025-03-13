@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlieresendiz" alt="charlieresendiz" /></a> </p>
 
-- 🌱 I’m currently learning **GCP, GKE, Prometheus, Ansible**
+- 🌱 I’m currently learning **GCP, GKE, Prometheus, SRE & DevOps**
 
 - ⚡ Fun fact **I love traveling the world**
 
